@@ -30,5 +30,5 @@ g=pow(x,2)/4+pow(y,2)/9
 plt.figure()
 plt.contour(x, y, t, 0)
 plt.scatter(badData[:,0], badData[:,1], marker = 'o', color = 'k', s=10, label = u'坏')  
-plt.scatter(goodData[:,0],goodData[:,1], marker = 'o', color = 'g', s=10, label = u'好瓜')  
+plt.scatter(goodData[:,0],goodData[:,1], marker = 'o', color = 'g', s=10, label = u'好')  
 plt.show()
