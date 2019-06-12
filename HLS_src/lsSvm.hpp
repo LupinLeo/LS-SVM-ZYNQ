@@ -1,5 +1,7 @@
-#ifndef _2DCONV_H
-#define _2DCONV_H
+// Author: lupin
+// Email: lupinleo.lulo@gmail.com 
+#ifndef _LSSVM_H
+#define _LSSVM_H
 
 #include <stdio.h>
 #include <ap_int.h>

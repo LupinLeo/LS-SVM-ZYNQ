@@ -1,3 +1,5 @@
+// Author: lupin
+// Email: lupinleo.lulo@gmail.com 
 #ifndef DEFINE_H
 #define DEFINE_H
 

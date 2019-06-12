@@ -1,15 +1,3 @@
-/************************************  Header Section  *********************************************
- --
- -- NAME       : OpenHEC
- -- Data       : 2017.5
- -- E-mail     : support@iopenhec.com
- -- Website    : www.iopenhec.com
-
- -- Filename   : mmap.c
- -- Description: 
- --
-*********************************** End Header Section  *********************************************/
-
 #include "mmap.h"
 
 int set_mapbase(off_t phy_addr, void **virt_addr, unsigned long map_size){

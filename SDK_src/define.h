@@ -1,15 +1,3 @@
-/************************************  Header Section  *********************************************
- --
- -- NAME       : OpenHEC
- -- Data       : 2017.5
- -- E-mail     : support@iopenhec.com
- -- Website    : www.iopenhec.com
-
- -- Filename   : define.h
- -- Description: 
- --
-*********************************** End Header Section  *********************************************/
-
 #ifndef DEFINE_H
 #define DEFINE_H
 

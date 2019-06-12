@@ -1,14 +1,3 @@
-/************************************  Header Section  *********************************************
- --
- -- NAME       : OpenHEC
- -- Data       : 2017.5
- -- E-mail     : support@iopenhec.com
- -- Website    : www.iopenhec.com
-
- -- Filename   : test.c
- -- Description: 2D Convolution IP demo on OpenHEC online platform
- --
-*********************************** End Header Section  *********************************************/
 #include "define.h"
 #include "mmap.h"
 #include <time.h>
