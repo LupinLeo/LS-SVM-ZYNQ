@@ -1,4 +1,4 @@
-# LS-SVM implemented in ZYNQ
+# LS-SVM implemented on ZYNQ
 
  &nbsp;
 ## Introduction  
