@@ -1,7 +1,8 @@
-# LS-SVM implemented on ZYNQ
+# LS-SVM implemented in ZYNQ
 
  &nbsp;
 ## Introduction  
+![](https://github.com/LupinLeo/LS-SVM-ZYNQ/blob/master/image/SVM.bmp)
 本项目是基于Xlinx的ZYNQ7000系列，实现了最小二乘法支持向量机（LS-SVM）
 
 * 支持向量机模块使用了C++在Vivado HLS工具上实现
